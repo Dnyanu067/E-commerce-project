@@ -55,8 +55,6 @@ Note: The payment page is created only for demo purpose and its not fully integr
 - https://github.com/Dnyanu067/E-commerce-project/blob/398a26b9e29fbfba9c722aa3d8395eeb92ffe461/payment1.png
 
 
-- Class Diagram
-<img width="589" alt="image" src="https://github.com/shashirajraja/shopping-cart/assets/34605595/d6dbfdb9-5108-4071-b4b6-d055f0370acd">
 
 #### "Suggestions and project improvement ideas are welcomed!"
 
