@@ -43,19 +43,16 @@ Note: The payment page is created only for demo purpose and its not fully integr
 - https://github.com/Dnyanu067/E-commerce-project/blob/8e6c5747dba04f968701b6c0b96735e6b2b1055a/home1.png
 
 - Login Page
-![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/c5451416-a669-4d76-ad84-9b8ea26bf6b4)
-- Register Page
-![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/19f06ec9-70aa-4700-8846-a2e6514d88c2)
-- Category Wise Product Filter
-![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/757e552c-1526-4142-869b-ffbf27a232e0)
+- https://github.com/Dnyanu067/E-commerce-project/blob/398a26b9e29fbfba9c722aa3d8395eeb92ffe461/login1.png
+
+-  Register Page
+- https://github.com/Dnyanu067/E-commerce-project/blob/398a26b9e29fbfba9c722aa3d8395eeb92ffe461/register1.png
+
 - Cart Items
-![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/12963112-1276-49ca-8b9c-f3272c6b9b7b)
+- https://github.com/Dnyanu067/E-commerce-project/blob/398a26b9e29fbfba9c722aa3d8395eeb92ffe461/cart1.png
+
 - Credit Card Payment
-![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/990595ce-856c-46fe-8182-052a127d67b4)
-- Order Details & Status
-![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/db8b4511-cac0-41df-930a-ef3bdebe5c24)
-- User Profile
-![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/aa22b0cd-726b-4e5c-85cd-5409b7fc5391)
+- https://github.com/Dnyanu067/E-commerce-project/blob/398a26b9e29fbfba9c722aa3d8395eeb92ffe461/payment1.png
 
 
 - Class Diagram
