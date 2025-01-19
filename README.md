@@ -40,7 +40,7 @@ Note: The payment page is created only for demo purpose and its not fully integr
 
 #### Some Screenshots for the project:
 - Home Page
-![image]([https://github.com/shashirajraja/shopping-cart/assets/34605595/6161fb90-ac83-445d-9fb2-56681f6a52b4](https://github.com/Dnyanu067/E-commerce-project/blob/main/home1.png?raw=true))
+![image]([https://github.com/shashirajraja/shopping-cart/assets/34605595/6161fb90-ac83-445d-9fb2-56681f6a52b4](https://github.com/Dnyanu067/E-commerce-project/blob/main/home1.png?raw=true)
 - Login Page
 ![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/c5451416-a669-4d76-ad84-9b8ea26bf6b4)
 - Register Page
